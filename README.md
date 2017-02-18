@@ -1,10 +1,8 @@
-## Welcome to GitHub Pages
+#Phoenix Trio
 
-You can use the [editor on GitHub](https://github.com/AbdiViklas/phoenixtrio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The Phoenix Trio is a piano trio composed of Elon University music faculty members Victoria Fischer-Faw (piano), Meaghan Skogen (cello), and Andy Bonner (violin).
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
+##Upcoming concert:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
