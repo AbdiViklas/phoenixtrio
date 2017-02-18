@@ -3,33 +3,8 @@
 The Phoenix Trio is a piano trio composed of Elon University music faculty members Victoria Fischer-Faw (piano), Meaghan Skogen (cello), and Andy Bonner (violin).
 
 ##Upcoming concert:
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AbdiViklas/phoenixtrio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+On March 9 at 7:30 pm, in Whitley Auditorium ([map](https://goo.gl/maps/UzQS6D75V532)), the Phoenix Trio will present a program of three piano trios:
+- [Haydn: piano trio Hob. XV: 12](http://www.earsense.org/chamberbase/works/detail/?pkey=477)
+- [Beethoven: piano trio op. 70 no 1 (“Ghost”)](http://www.laphil.com/philpedia/music/trio-d-major-op-70-no-1-ghost-ludwig-van-beethoven)
+- [Turina: piano trio no. 2, op 76](http://earsense.org/chamberbase/works/detail/?pkey=1554)
+Admission is free.
